@@ -1,12 +1,3 @@
-
-<p align="center">
- 
- <img src="https://badges.pufler.dev/visits/albertoivo/albertoivo"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/albertoivo"/>
- <img src="https://badges.pufler.dev/commits/monthly/albertoivo" />
-
-</p>
 ![Albetroivo](https://img.shields.io/github/followers/albertoivo?style=social) [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) ![](https://komarev.com/ghpvc/?username=albertoivo)
 
 
@@ -29,4 +20,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=albertoivo&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
   
-</p>
+<p align="center">If you like it, do fork 🍴 and star ⭐</p>
