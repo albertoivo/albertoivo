@@ -29,7 +29,7 @@
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=albertoivo&show_icons=true&theme=nightowl&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=albertoivo&hide=html,css,&theme=nightowl">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=albertoivo&hide=html,css,&theme=nightowl&layout=compact&langs_count=8">
 </p>
 
 <p align = "center">
