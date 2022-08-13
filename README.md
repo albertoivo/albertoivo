@@ -1,6 +1,6 @@
-<p align="center">
+
 ![Albetroivo](https://img.shields.io/github/followers/albertoivo?style=social) [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) ![](https://komarev.com/ghpvc/?username=albertoivo)
-</p>
+
 
 <h2 align="center">Technology Stack</h2>
 
