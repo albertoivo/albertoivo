@@ -7,9 +7,9 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-E34A86?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/-Jupyter-E34A86?style=flat-square&logo=jupyter"/>
+<img src="https://img.shields.io/badge/-Jupyter-E34A86?style=plastic&logo=appveyor&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
