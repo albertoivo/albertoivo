@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=albertoivo&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
+
 
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) ![](https://komarev.com/ghpvc/?username=albertoivo)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertoivo&count_private=true)
+![Alberto ivo's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertoivo&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/albertoivo/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertoivo&show_icons=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertoivo&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=albertoivo&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
