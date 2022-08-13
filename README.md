@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=albertoivo&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
 
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) ![](https://komarev.com/ghpvc/?username=albertoivo)
 
-![](https://komarev.com/ghpvc/?username=albertoivo)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertoivo&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertoivo&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertoivo&show_icons=true&theme=radical)
