@@ -1,4 +1,8 @@
-![Albetroivo](https://img.shields.io/github/followers/albertoivo?style=social) [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) ![](https://komarev.com/ghpvc/?username=albertoivo)
+<p align = "center">
+  <img  src = "https://img.shields.io/github/followers/albertoivo?style=social">
+  <img  src = "https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg">
+  <img  src = "https://komarev.com/ghpvc/?username=albertoivo">
+ </p>
 
 
 <h2 align="center">Technology Stack</h2>
