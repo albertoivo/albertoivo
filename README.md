@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=albertoivo&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
+
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+
+![](https://komarev.com/ghpvc/?username=albertoivo)
