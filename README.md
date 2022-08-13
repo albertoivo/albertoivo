@@ -1,4 +1,12 @@
 
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/albertoivo/albertoivo"/> 
+ <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+ <img src="https://badges.pufler.dev/repos/albertoivo"/>
+ <img src="https://badges.pufler.dev/commits/monthly/albertoivo" />
+
+</p>
 ![Albetroivo](https://img.shields.io/github/followers/albertoivo?style=social) [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) ![](https://komarev.com/ghpvc/?username=albertoivo)
 
 
