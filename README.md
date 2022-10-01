@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter"/>
 <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/>
 <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=aws"/>
 <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
