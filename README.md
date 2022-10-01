@@ -23,7 +23,7 @@
 </p>
 
 <p>
-  ![Amazon Alexa](https://camo.githubusercontent.com/ad697a7e62dad8b4ef0682ce6c5a135d007e85c78cd5f498c072d986ec5051a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f616d617a6f6e253230616c6578612d3532623566373f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e253230616c657861266c6f676f436f6c6f723d7768697465)
+  ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
   ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
 </p>
  
