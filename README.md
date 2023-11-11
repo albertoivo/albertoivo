@@ -1,6 +1,5 @@
 <p align = "center">
   <img  src = "https://img.shields.io/github/followers/albertoivo?style=social">
-  <img  src = "https://svgshare.com/i/ZjP.svg">
   <img  src = "https://komarev.com/ghpvc/?username=albertoivo">
  </p>
 
