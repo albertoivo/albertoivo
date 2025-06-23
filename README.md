@@ -49,7 +49,6 @@
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertoivo&hide=html,css,jupyter%20notebook&theme=nightowl&layout=compact&langs_count=8">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertoivo&show_icons=true&locale=en&layout=compact&theme=nightowl&line_height=0">
   <img src="https://github-readme-stats.vercel.app/api?username=albertoivo&show_icons=true&theme=nightowl&line_height=24">
 </p>
 
