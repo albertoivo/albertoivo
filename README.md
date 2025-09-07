@@ -17,7 +17,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
   I am a passionate full-stack developer with experience in modern frameworks and cloud environments.  
-  Currently pursuing a Master’s degree in Artificial Intelligence, I focus on building innovative projects that combine **AI, data, and software engineering**.
+  Currently pursuing a <b>Master’s degree in Artificial Intelligence</b>, I focus on building innovative projects that combine AI, data, and software engineering.
 </p>
 
 ---
